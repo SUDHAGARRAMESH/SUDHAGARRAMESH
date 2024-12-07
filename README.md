@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUDHAGARRAMESH
-- 👀 I’m interested in ELK stack , front end with react.js and in Automation with python , RPA
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in ELK stack, react.js, java, python, Semantic Search, NLP, Search engine solutions 
+- 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on ELK 
 - 📫 How to reach me sudhagarramesh02@gmail.com
 
